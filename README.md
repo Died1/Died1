@@ -28,6 +28,8 @@ Feel free to reach out! I'm always open to interesting conversations and collabo
 - 📧 Email: [eddycampos2011@gmail.com](mailto:eddycampos2011@gmail.com)
   
 
+![JavaScript](https://img.shields.io/badge/JavaScript-100%25-brightgreen)
+
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
