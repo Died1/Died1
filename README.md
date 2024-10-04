@@ -17,8 +17,7 @@
 
 <p>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritika789&theme=monokai&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="39%">
-</p>
+ 
 
 
 ---
@@ -26,10 +25,8 @@
 
 Feel free to reach out! I'm always open to interesting conversations and collaboration.
 
-- 📧 Email: [ritikakaur789@gmail.com](mailto:ritikakaur789@gmail.com)
+- 📧 Email: [eddycampos2011@gmail.com](mailto:eddycampos2011@gmail.com)
   
-## 🤝 Support my work and help it thrive
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/ritikakaurr)
 
 
   
